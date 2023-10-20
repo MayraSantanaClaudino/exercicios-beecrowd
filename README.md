@@ -1,3 +1,3 @@
-# ExerciciosBeecrowd
+# exercicios-beecrowd
 
-Beecrowd codes in Java and SQL
+Resolução de exercicios na linguagem Java e SQL na plataforma Beecrowd
